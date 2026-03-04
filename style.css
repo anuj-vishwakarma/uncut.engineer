@@ -84,7 +84,8 @@ nav h1 {
   display: inline-block;
 }
 
-nav button {
+nav a {
+  text-decoration: none;
   margin-top: -10px;
   background-color: #a30b0b;
   display: flex;
