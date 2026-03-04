@@ -473,7 +473,7 @@ nav button svg {
 }
 
 /* Red animated layer */
-#page6 .divider::before {
+.divider::before {
     content: "";
     position: absolute;
     left: 0;
